@@ -1,0 +1,10 @@
+/*atributos*/
+p#parrafo_definicion{
+    color: rgb(18, 117, 156);
+}
+p{
+    color: green;
+}
+p.rojo{
+    color: red;
+}
